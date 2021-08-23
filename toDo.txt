@@ -1,0 +1,8 @@
+-The Design:
+	-establish color palette and fonts in scss.
+	-set-up particle.js with json from previous project.
+	-set-up breakpoints in scss.
+	-set-up fonts. 
+	-set-up navbar.
+	-so on and so forth.
+-design logo for site/favicon

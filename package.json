@@ -1,0 +1,27 @@
+{
+  "name": "amusicalcoder",
+  "version": "1.0.0",
+  "description": "Portfolio Site for aMusicalCoder",
+  "main": "index.html",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.1.0",
+    "@popperjs/core": "^2.9.3",
+    "particles.js": "^2.0.0",
+    "vue": "^3.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aMusicalCoder/aMusicalCoder.github.io.git"
+  },
+  "author": "Benjamin W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aMusicalCoder/aMusicalCoder.github.io/issues"
+  },
+  "homepage": "https://github.com/aMusicalCoder/aMusicalCoder.github.io#readme"
+}
